@@ -1,1 +1,2 @@
-# CNN_cifar10_pytorch_backend_own_architecture
+# CNN Classification on Cifar10 Pytorch Backend
+
